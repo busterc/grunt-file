@@ -1,0 +1,28 @@
+{
+  "name": "grunt-file",
+  "version": "1.0.2",
+  "description": "Quickly create, save and reuse gruntfiles",
+  "main": "./lib/main.js",
+  "preferGlobal": "true",
+  "bin": {
+    "gruntfile": "./bin/grunt-file"
+  },
+  "homepage": "https://github.com/busterc/grunt-file",
+  "repository": {
+    "url": "https://github.com/busterc/grunt-file.git"
+  },
+  "keywords": [
+    "grunt",
+    "gruntjs",
+    "gruntfile",
+    "gruntplugin",
+    "generator",
+    "generate"
+  ],
+  "author": "busterc",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.3.0",
+    "mkdirp": "^0.5.0"
+  }
+}
