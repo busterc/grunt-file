@@ -4,7 +4,7 @@ quickly create, save and reuse gruntfiles
 _if Gulp is your thing, check out: [gulpfile](https://github.com/busterc/gulpfile)_
 
 ## Version
-1.0.1
+1.0.2
 
 ## Installation
 
